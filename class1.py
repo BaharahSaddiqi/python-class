@@ -9,3 +9,5 @@ p1 = Person()
 #method
 p1.speak()
 print(type(Person))
+x = "Fardin"
+print (x)
