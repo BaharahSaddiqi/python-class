@@ -10,7 +10,7 @@ class Cat(Animal):
 
     
 class Cow(Animal):  
-   def speak(selF):
+   def speak(self):
         
         print("Mahhhhhh")
 
